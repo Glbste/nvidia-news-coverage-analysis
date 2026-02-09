@@ -1,0 +1,176 @@
+date_string,publication_date,title,content_type,year,sentiment_score,sentiment_label,positive_word_count,negative_word_count,topic_lda,topic_nmf
+"January 9, 2026",2026-01-09,NVIDIA Unveils Faster AI Chips Sooner Than Expected,article,2026,0.14285714285714285,positive,1,0,2,4
+"January 9, 2026",2026-01-09,NVIDIA Details New A.I. Chips and Autonomous Car Project With Mercedes,article,2026,0.1,positive,1,0,1,4
+"January 9, 2026",2026-01-09,"Jensen Huang, NVIDIA CEO: A Fortt Knox CES Update",video,2026,0.0,neutral,0,0,4,0
+"December 19, 2025",2025-12-19,The Architects of AI Are TIME’s 2025 Person of the Year,article,2025,0.0,neutral,0,0,4,5
+"November 21, 2025",2025-11-21,NVIDIA CEO Calls Computing the ‘Fundamental Infrastructure’ of Humanity,article,2025,0.0,neutral,0,0,0,0
+"November 21, 2025",2025-11-21,NVIDIA #1: America's Dream Employers 2026,article,2025,0.0,neutral,0,0,4,5
+"November 5, 2025",2025-11-05,"NVIDIA, Deutsche Telekom to Build AI Factory in Europe Under $1.15 Billion Partnership",article,2025,0.1111111111111111,positive,1,0,5,3
+"November 5, 2025",2025-11-05,NVIDIA’s South Korea Deals Mark a ‘Watershed’,article,2025,0.0,neutral,0,0,0,0
+"November 5, 2025",2025-11-05,The World’s Most Valuable Public Company Just Laid Out Its Vision for the Future,article,2025,0.0,neutral,0,0,1,3
+"November 5, 2025",2025-11-05,NVIDIA's D.C. Moment,article,2025,0.0,neutral,0,0,4,0
+"October 21, 2025",2025-10-21,Exclusive: NVIDIA and TSMC Unveil First Blackwell Chip Wafer Made in U.S.,article,2025,0.1,positive,1,0,0,4
+"August 29, 2025",2025-08-29,"NVIDIA Sales Jump 56%, a Sign the A.I. Boom Isn’t Slowing Down",article,2025,0.0,neutral,0,0,5,3
+"August 28, 2025",2025-08-28,The 100 Most Influential People in AI 2025,article,2025,0.0,neutral,0,0,0,5
+"July 10, 2025",2025-07-10,NVIDIA Becomes World’s First $4 Trillion Company,article,2025,0.16666666666666666,positive,1,0,2,3
+"June 12, 2025",2025-06-12,NVIDIA CEO Sees Tenfold Boost to Europe’s AI Computing Power,article,2025,0.0,neutral,0,0,1,3
+"May 28, 2025",2025-05-28,NVIDIA Isn’t Just Building AI Chips. It's Building an AI-powered World,article,2025,0.0,neutral,0,0,5,3
+"March 25, 2025",2025-03-25,NVIDIA Unveils Blackwell Ultra AI Chip for 'Age of AI Reasoning',article,2025,0.125,positive,1,0,2,4
+"March 25, 2025",2025-03-25,Inside A.I.’s Super Bowl: NVIDIA Dreams of a Robot Future,article,2025,0.0,neutral,0,0,3,2
+"March 21, 2025",2025-03-21,"NVIDIA, Already the Backbone of the AI Boom, Has Big Plans for the Future",article,2025,0.0,neutral,0,0,1,3
+"January 6, 2025",2025-01-06,NVIDIA CEO Jensen Huang Debuts New AI platform to Dominate the ‘ChatGPT Moment’ in Robotics,article,2025,0.08333333333333333,positive,1,0,4,0
+"January 6, 2025",2025-01-06,NVIDIA Unveils GeForce RTX 50 Series Graphics Cards With Big Performance Gains,article,2025,0.18181818181818182,positive,2,0,2,2
+"November 20, 2024",2024-11-20,"NVIDIA Crushes Expectations, More Than Doubling Its Profit Amid a 94% Surge in Revenue As AI Demand Booms",article,2024,0.0,neutral,0,0,1,4
+"June 2, 2024",2024-06-02,Nvidia Unveils Next-Generation Rubin AI Platform for 2026,article,2024,0.16666666666666666,positive,1,0,2,4
+"April 29, 2024",2024-04-29,"Meet NVIDIA CEO Jensen Huang, the Man Behind the $2 Trillion Company Powering Today's Artificial Intelligence",article,2024,0.0,neutral,0,0,4,0
+"April 17, 2024",2024-04-17,The 100 Most Influential People of 2024: Jensen Huang,article,2024,0.0,neutral,0,0,4,0
+"April 9, 2024",2024-04-09,Fortune 100 Best Companies to Work For 2024 [NVIDIA #3],article,2024,0.16666666666666666,positive,1,0,2,5
+"March 26, 2024",2024-03-26,NVIDIA Unveils Latest Chips at ‘AI Woodstock’,article,2024,0.2,positive,1,0,3,4
+"March 26, 2024",2024-03-26,Jim Cramer Says NVIDIA Will ‘Create the Next Industrial Revolution’,article,2024,0.0,neutral,0,0,0,4
+"March 26, 2024",2024-03-26,Why NVIDIA's New Blackwell Chip Is Key to the Next Stage of AI,article,2024,0.1111111111111111,positive,1,0,2,4
+"March 26, 2024",2024-03-26,NVIDIA CEO Says AI Has Closed 'The Technology Divide',article,2024,0.0,neutral,0,0,5,0
+"March 26, 2024",2024-03-26,NVIDIA's Lightning Speed in Driving Change,article,2024,0.0,neutral,0,0,3,2
+"March 21, 2024",2024-03-21,Most Innovative Company of 2024: NVIDIA’s AI Boom is Only Getting Started,article,2024,0.125,positive,1,0,5,3
+"February 29, 2024",2024-02-29,NVIDIA Hardware Is Eating the World,article,2024,0.0,neutral,0,0,1,3
+"February 22, 2024",2024-02-22,NVIDIA Says Growth Will Continue as A.I. Hits ‘Tipping Point’,article,2024,0.125,positive,1,0,0,0
+"February 21, 2024",2024-02-21,"Ahead of NVIDIA Earnings, Cramer Says the AI Giant Isn’t Anywhere Near Its Peak",article,2024,0.0,neutral,0,0,5,4
+"January 26, 2024",2024-01-26,NVIDIA Makes the Case for the AI PC at CES 2024,article,2024,0.0,neutral,0,0,1,2
+"January 26, 2024",2024-01-26,NVIDIA Partners With Mercedes to Pursue Self-Driving Cars,article,2024,0.0,neutral,0,0,1,2
+"January 26, 2024",2024-01-26,"CES 2024: NVIDIA Ge‭Force RTX 4070 SUPER, RTX 4080 SUPER Cards Land This Month",article,2024,0.0,neutral,0,0,3,2
+"November 29, 2023",2023-11-29,Next Big Things in Tech 2023: NVIDIA Picasso,article,2023,0.0,neutral,0,0,2,4
+"November 22, 2023",2023-11-22,"NVIDIA’s Sales Surge, With No End in Sight for AI Boom",article,2023,0.0,neutral,0,0,5,4
+"November 15, 2023",2023-11-15,NVIDIA's HGX H200 GPU With HBMe3 is an AI Beast for the Data Center,article,2023,0.0,neutral,0,0,2,4
+"October 24, 2023",2023-10-24,The Best Inventions of 2023: NVIDIA Neuralangelo,article,2023,0.2,positive,1,0,4,1
+"October 13, 2023",2023-10-13,Going All-In With NVIDIA: How Jensen Huang’s High-Stakes Bets Paid Off,article,2023,0.0,neutral,0,0,4,0
+"October 6, 2023",2023-10-06,How Nvidia Got Huge—and Almost Invincible,article,2023,0.0,neutral,0,0,0,2
+"September 13, 2023",2023-09-13,NVIDIA's AI Surge is Just Getting Started,article,2023,0.0,neutral,0,0,5,4
+"August 8, 2023",2023-08-08,Nvidia Unveils Faster Chip Aimed at Cementing AI Dominance,article,2023,0.14285714285714285,positive,1,0,2,4
+"July 14, 2023",2023-07-14,"Winners of VentureBeat’s 5th Annual AI Innovation Awards: Jensen Huang, Generative AI Visionary",article,2023,0.1111111111111111,positive,1,0,4,0
+"June 21, 2023",2023-06-21,TIME100 Most Influential Companies: NVIDIA,article,2023,0.0,neutral,0,0,4,5
+"May 30, 2023",2023-05-30,The World’s Biggest Ad Agency Is Going All in on AI With NVIDIA Help,article,2023,0.0,neutral,0,0,1,3
+"May 30, 2023",2023-05-30,"NVIDIA's New AI Supercomputer Is a Game Changer. Google, Meta, and Microsoft Will Be First Users",article,2023,0.16666666666666666,positive,2,0,3,2
+"May 18, 2023",2023-05-18,NVIDIA Unveils 3 GeForce RTX 4060s Starting at $299: DLSS 3 Goes Mainstream,article,2023,0.125,positive,1,0,2,2
+"March 23, 2023",2023-03-23,Nvidia Turns to AI Cloud Rental to Spread New Technology,article,2023,0.14285714285714285,positive,1,0,5,2
+"March 23, 2023",2023-03-23,NVIDIA cuLitho Computational Lithography Massively Accelerates Chip Design Using GPUs,article,2023,0.0,neutral,0,0,0,4
+"March 23, 2023",2023-03-23,NVIDIA's Next-Gen AI Chips Are Coming to AWS and Google Cloud,article,2023,0.0,neutral,0,0,5,2
+"March 23, 2023",2023-03-23,NVIDIA Launches New Cloud Services and Partnerships to Train Generative AI,article,2023,0.2222222222222222,positive,2,0,4,2
+"March 23, 2023",2023-03-23,NVIDIA's Big AI Moment is Here,article,2023,0.0,neutral,0,0,4,2
+"March 23, 2023",2023-03-23,"A.I. is a Brand New Computing Platform You Can Program With Your Own Language, Says NVIDIA CEO",article,2023,0.07142857142857142,positive,1,0,2,0
+"March 6, 2023",2023-03-06,"How NVIDIA Grew From Gaming To A.I. Giant, Now Powering ChatGPT",video,2023,0.0,neutral,0,0,4,2
+"February 1, 2023",2023-02-01,World’s Most Admired Companies: NVIDIA No. 1 in Semiconductors,article,2023,0.0,neutral,0,0,1,3
+"January 3, 2023",2023-01-03,NVIDIA Omniverse Adds Generative AI and Unity with Update,article,2023,0.0,neutral,0,0,3,1
+"January 3, 2023",2023-01-03,"NVIDIA Helps Hyundai, BYD, Polestar Join the In-Car Gaming Revolution",article,2023,0.0,neutral,0,0,0,2
+"January 3, 2023",2023-01-03,NVIDIA GeForce NOW Gets a Sweet RTX 4080 SuperPOD Upgrade Smooth Gaming at 240 FPS,article,2023,0.0,neutral,0,0,2,2
+"January 3, 2023",2023-01-03,NVIDIA Brings the Mighty RTX 4090 to Laptops at CES 2023,article,2023,0.0,neutral,0,0,0,2
+"November 17, 2022",2022-11-17,NVIDIA and Microsoft Join Forces to Build AI Supercomputer,article,2022,0.0,neutral,0,0,5,3
+"November 17, 2022",2022-11-17,These 4 Companies’ Excellence in Innovation Isn’t Just About a Single Technology Breakthrough,article,2022,0.2,positive,2,0,5,5
+"November 14, 2022",2022-11-14,How NVIDIA is Driving Greener Computing,article,2022,0.0,neutral,0,0,2,2
+"November 10, 2022",2022-11-10,The Best Inventions of 2022: NVIDIA Instant NeRF,article,2022,0.16666666666666666,positive,1,0,4,1
+"October 3, 2022",2022-10-03,NVIDIA Voyager is the 2022 Structures Honoree for Interiors Project,article,2022,0.0,neutral,0,0,1,4
+"September 21, 2022",2022-09-21,NVIDIA Targets Computers for Robots in the Surgery Rooms,article,2022,0.0,neutral,0,0,0,4
+"September 21, 2022",2022-09-21,NVIDIA Launches New Services for Training Large Language Models,article,2022,0.2222222222222222,positive,2,0,4,2
+"September 21, 2022",2022-09-21,NVIDIA Unveils GeForce RTX 40 Series Graphics Cards with 4X Performance,article,2022,0.2222222222222222,positive,2,0,2,2
+"September 21, 2022",2022-09-21,NVIDIA Puts AI at Center of Latest GeForce Graphics Card Upgrade,article,2022,0.0,neutral,0,0,2,2
+"September 21, 2022",2022-09-21,"NVIDIA Launches Lovelace GPU, Cloud Services, Ships H100 GPUs, New Drive Thor, and....",article,2022,0.16666666666666666,positive,2,0,4,4
+"September 21, 2022",2022-09-21,Chipmaker NVIDIA Launches New System for Autonomous Driving,article,2022,0.25,positive,2,0,2,2
+"September 6, 2022",2022-09-06,NVIDIA Grace and Hopper Superchips Are Poised To Be AI and HPC Powerhouses,article,2022,0.0,neutral,0,0,0,4
+"September 6, 2022",2022-09-06,Nvidia’s Geforce NOW Game-Streaming Service Tops 20 Million Users,article,2022,0.0,neutral,0,0,3,2
+"September 6, 2022",2022-09-06,Jensen Huang Interview: How the Metaverse Vision Will Outlast Any Economic Downturn,article,2022,0.0,neutral,0,0,4,0
+"August 15, 2022",2022-08-15,Watch NVIDIA's Livestream at SIGGRAPH: Why It May Be the Most Pivotal Since 1993,article,2022,0.0,neutral,0,0,0,4
+"July 19, 2022",2022-07-19,NVIDIA Launches Quantum Computing Platform,article,2022,0.2,positive,1,0,2,4
+"May 31, 2022",2022-05-31,NVIDIA’s AI-Powered Supercomputers Advance Nuclear Fusion Research,article,2022,0.14285714285714285,positive,1,0,4,3
+"May 24, 2022",2022-05-24,NVIDIA Adds Breadth and Depth to System Designs,article,2022,0.0,neutral,0,0,0,2
+"May 24, 2022",2022-05-24,"NVIDIA Announces 12 More DLSS Titles, 500Hz Monitor, Fresh New Laptops",article,2022,0.1111111111111111,positive,1,0,0,2
+"May 24, 2022",2022-05-24,"NVIDIA Unveils Liquid-Cooled GPUs, With Equinix as Early Adopter",article,2022,0.125,positive,1,0,2,2
+"May 24, 2022",2022-05-24,NVIDIA Details Plans to Transform Data Centers into AI Factories,article,2022,0.125,positive,1,0,3,4
+"May 20, 2022",2022-05-20,NVIDIA AI Research Takes Science Fiction One Step Closer to Reality,article,2022,0.0,neutral,0,0,1,5
+"May 5, 2022",2022-05-05,Nvidia's Massive Techno Palace May Have You Questioning Remote Work,article,2022,0.0,neutral,0,0,2,5
+"March 30, 2022",2022-03-30,TIME100 Most Influential Companies,article,2022,0.0,neutral,0,0,4,5
+"March 23, 2022",2022-03-23,GTC 2022: NVIDIA Flexes its GPU and Platform Muscles,article,2022,0.0,neutral,0,0,2,4
+"March 23, 2022",2022-03-23,NVIDIA’s Trillion Dollar Dreams,article,2022,0.0,neutral,0,0,2,2
+"March 23, 2022",2022-03-23,"NVIDIA Unleashes Arsenal of AI Innovation with Hopper GPU, Grace CPU, Interconnect and Robotics Tech",article,2022,0.07692307692307693,positive,1,0,4,4
+"March 23, 2022",2022-03-23,NVIDIA Unveils Data-Center Chips Aimed at Stretching Its Lead in AI,article,2022,0.25,positive,2,0,2,4
+"March 23, 2022",2022-03-23,"NVIDIA's New Chips Power AI, Autonomous Vehicles, Metaverse Tools",article,2022,0.125,positive,1,0,3,3
+"March 8, 2022",2022-03-08,The 10 Most Innovative Augmented Reality and Virtual Reality Companies of 2022 [NVIDIA #2],article,2022,0.1,positive,1,0,2,5
+"February 16, 2022",2022-02-16,Jaguar Land Rover Vehicles Getting Big Brains in 2025,article,2022,0.0,neutral,0,0,2,2
+"January 12, 2022",2022-01-12,"Job Seekers, Work at One of These Companies in 2022 if You Want a Better Corporate Culture [NVIDIA #1 on Glassdoor's Best Workplaces]",article,2022,0.13333333333333333,positive,2,0,2,5
+"January 4, 2022",2022-01-04,"NVIDIA Launches Salvo Of Gaming GPUs, New Omniverse and Autonomous Driving Tech At CES 2022",article,2022,0.16666666666666666,positive,2,0,4,2
+"November 23, 2021",2021-11-23,NVIDIA CEO Believes the ‘Metaverse’ Can Save Companies Billions of Dollars in the Real World,article,2021,0.0,neutral,0,0,4,3
+"November 19, 2021",2021-11-19,Jensen Huang Gets Chip Industry’s Highest Honor 28 Years After Founding NVIDIA,article,2021,0.0,neutral,0,0,4,0
+"November 10, 2021",2021-11-10,The Best Inventions of 2021: NVIDIA Broadcast,article,2021,0.2,positive,1,0,4,1
+"November 10, 2021",2021-11-10,The Best Inventions of 2021: NVIDIA Omniverse,article,2021,0.2,positive,1,0,4,1
+"November 9, 2021",2021-11-09,Nvidia Announces Deeper Push into Health Care Industry at GTC 2021,article,2021,0.0,neutral,0,0,5,4
+"November 9, 2021",2021-11-09,Nvidia and Lockheed Martin Plan to Fight Forest Fires with AI. Here's How.,article,2021,0.0,neutral,0,0,0,2
+"November 9, 2021",2021-11-09,How Ericsson is Using Omniverse to Simulate 5G Network Reception in a City,article,2021,0.0,neutral,0,0,0,1
+"November 9, 2021",2021-11-09,Nvidia Doubles Down on Software Tools for Crafting Virtual Worlds,article,2021,0.0,neutral,0,0,2,1
+"October 22, 2021",2021-10-22,Expansive NVIDIA GeForce NOW Updates Bring RTX 3080 120FPS Gaming to the Cloud,article,2021,0.0,neutral,0,0,2,2
+"September 15, 2021",2021-09-15,The 100 Most Influential People of 2021: Jensen Huang,article,2021,0.0,neutral,0,0,4,0
+"August 19, 2021",2021-08-19,NVIDIA’s Gaming Chips Drive Record Quarterly Results,article,2021,0.14285714285714285,positive,1,0,4,2
+"August 12, 2021",2021-08-12,NVIDIA’s Jensen Huang to Get Semiconductor Industry’s Highest Honor,article,2021,0.0,neutral,0,0,4,0
+"August 7, 2021",2021-08-07,Will NVIDIA’s Huge Bet on Artificial-Intelligence Chips Pay Off?,article,2021,0.0,neutral,0,0,5,4
+"June 7, 2021",2021-06-07,NVIDIA Lays the Foundation for Wider AI Adoption,article,2021,0.0,neutral,0,0,0,0
+"May 27, 2021",2021-05-27,"NVIDIA Gives Strong Forecast on Gamer, Data Center Demand",article,2021,0.125,positive,1,0,2,4
+"May 11, 2021",2021-05-11,NVIDIA's RTX 3050 and 3050 Ti Bring Ray Tracing to Affordable Laptops,article,2021,0.0,neutral,0,0,0,2
+"April 27, 2021",2021-04-27,TIME100 Most Influential Companies,article,2021,0.0,neutral,0,0,4,5
+"April 19, 2021",2021-04-19,The Metaverse is Coming. NVIDIA CEO Jensen Huang on the Fusion of Virtual and Physical Worlds,article,2021,0.0,neutral,0,0,4,0
+"April 16, 2021",2021-04-16,NVIDIA and Schrödinger Deal Could Speed Drug Discovery Globally,article,2021,0.0,neutral,0,0,0,0
+"April 13, 2021",2021-04-13,Swiss AI Supercomputer to Use New NVIDIA ARM Chip,article,2021,0.14285714285714285,positive,1,0,5,4
+"April 12, 2021",2021-04-12,100 Best Companies to Work For [NVIDIA #12],article,2021,0.2,positive,1,0,2,5
+"April 12, 2021",2021-04-12,NVIDIA Teams with Telecom Firms for AI-on-5G Developments,article,2021,0.0,neutral,0,0,3,3
+"April 12, 2021",2021-04-12,NVIDIA Announces First Data Center CPU,article,2021,0.16666666666666666,positive,1,0,2,4
+"April 12, 2021",2021-04-12,NVIDIA CFO Says Revenue Will Top First-Quarter Guidance,article,2021,0.125,positive,1,0,5,4
+"March 11, 2021",2021-03-11,"If You Love AI, Do Not Miss NVIDIA GTC This Year!",article,2021,0.0,neutral,0,0,5,1
+"March 9, 2021",2021-03-09,NVIDIA and Harvard Researchers Use AI to Make Genome Analysis Faster and Cheaper,article,2021,0.0,neutral,0,0,1,4
+"March 9, 2021",2021-03-09,The 10 Most Innovative Gaming Companies of 2021,article,2021,0.2,positive,1,0,4,5
+"March 9, 2021",2021-03-09,VMware-NVIDIA Alliance Expands With New vSphere GPU Support,article,2021,0.125,positive,1,0,3,4
+"February 4, 2021",2021-02-04,NVIDIA Celebrates GeForce NOW’s 1-Year Anniversary with 14 New Games and Killer Streaming Stats,article,2021,0.07692307692307693,positive,1,0,3,2
+"January 29, 2021",2021-01-29,Disney Releases Interactive Short 'Baymax Dreams' on GeForce NOW,article,2021,0.0,neutral,0,0,2,2
+"January 14, 2021",2021-01-14,CES 2021: NVIDIA Announces 30 Series Gaming Laptops,article,2021,0.0,neutral,0,0,0,2
+"December 16, 2020",2020-12-16,NVIDIA’s Chips Have Powered Nearly Every Major AI Breakthrough,article,2020,0.125,positive,1,0,5,4
+"December 16, 2020",2020-12-16,NVIDIA’s Chips Have Powered Nearly Every Major AI Breakthrough,article,2020,0.125,positive,1,0,5,4
+"November 19, 2020",2020-11-19,NVIDIA to Bring ‘Fortnite’ Back to iPhones Amid Epic’s App Store Fight,article,2020,0.0,neutral,0,0,0,2
+"November 19, 2020",2020-11-19,THE BEST INVENTIONS OF 2020: NVIDIA GeForce Now,article,2020,0.16666666666666666,positive,1,0,4,1
+"November 16, 2020",2020-11-16,NVIDIA Outperforms Itself Once Again,article,2020,0.0,neutral,0,0,0,0
+"October 27, 2020",2020-10-27,NVIDIA GeForce RTX 3070 Review,article,2020,0.0,neutral,0,0,2,2
+"October 22, 2020",2020-10-22,NVIDIA Makes a Clean Sweep of MLPerf Predictions Benchmark for Artificial Intelligence,article,2020,0.0,neutral,0,0,5,0
+"October 16, 2020",2020-10-16,"NVIDIA Will Power World’s Fastest AI Supercomputer, to be Located in Europe",article,2020,0.125,positive,1,0,1,3
+"October 9, 2020",2020-10-09,How NVIDIA is Showing Us the World of Tomorrow,article,2020,0.0,neutral,0,0,1,3
+"October 9, 2020",2020-10-09,NVIDIA to Build UK’s Most Powerful Supercomputer,article,2020,0.2,positive,1,0,5,3
+"October 9, 2020",2020-10-09,"One on One With Jensen Huang: NVIDIA, the Platform Company",article,2020,0.0,neutral,0,0,4,0
+"September 18, 2020",2020-09-18,"Jensen Huang, the Chip Pioneer Strides to the Top",article,2020,0.25,positive,2,0,4,0
+"September 16, 2020",2020-09-16,NVIDIA GeForce RTX 3080 Founders Edition Review: The Superman of GPUs,article,2020,0.0,neutral,0,0,2,2
+"September 14, 2020",2020-09-14,NVIDIA-Arm $40 Billion Deal Will Upend Entire Chip Industry,article,2020,0.0,neutral,0,0,5,4
+"September 2, 2020",2020-09-02,NVIDIA Unveils GeForce RTX 3080 GPU With 28 Billion Transistors,article,2020,0.125,positive,1,0,2,2
+"September 2, 2020",2020-09-02,NVIDIA's Latest Chips Are an Industry Game Changer,article,2020,0.0,neutral,0,0,3,4
+"August 18, 2020",2020-08-18,Chromebooks Get Huge Gaming Boost with NVIDIA GeForce NOW Beta,article,2020,0.0,neutral,0,0,2,2
+"August 14, 2020",2020-08-14,"How NVIDIA Built Selene, the World's Seventh-Fastest Computer, in Three Weeks",article,2020,0.0,neutral,0,0,0,3
+"July 8, 2020",2020-07-08,NVIDIA's Ampere GPUs Come to Google Cloud,article,2020,0.0,neutral,0,0,5,2
+"June 29, 2020",2020-06-29,Top CEOs of 2020: How the CEO of Nvidia Navigated the Covid Crisis,article,2020,0.0,neutral,1,1,5,0
+"June 29, 2020",2020-06-29,An Infrastructure Arms Race is Fueling the Future of Gaming,article,2020,0.0,neutral,0,0,4,2
+"June 23, 2020",2020-06-23,Mercedes-Benz and NVIDIA Sign a Deal to Make Cars More Like iPhones,article,2020,0.0,neutral,0,0,1,4
+"June 22, 2020",2020-06-22,Computer Makers Unveil 50 AI Servers with NVIDIA's A100 GPUs,article,2020,0.0,neutral,0,0,0,2
+"June 22, 2020",2020-06-22,Nvidia Just Made a Huge Leap in Supercomputing Power,article,2020,0.0,neutral,0,0,0,3
+"May 22, 2020",2020-05-22,Nvidia’s GameGAN Generates Games Like Pac-Man by Watching Videos,article,2020,0.0,neutral,0,0,4,2
+"May 20, 2020",2020-05-20,NVIDIA’s Virtual GTC 2020 Keynote: A Look at Best Practices,article,2020,0.14285714285714285,positive,1,0,2,1
+"May 14, 2020",2020-05-14,NVIDIA Unifies AI Compute With “Ampere” GPU,article,2020,0.0,neutral,0,0,3,4
+"May 14, 2020",2020-05-14,NVIDIA Unleashes Disruptive Ampere GPU Architecture and DGX A100 Supercomputers to Power Next-Gen AI Data Centers,article,2020,0.0,neutral,0,0,3,4
+"May 14, 2020",2020-05-14,NVIDIA Launches Early Access for Omniverse Computer Graphics and Simulation Platform,article,2020,0.09090909090909091,positive,1,0,2,2
+"May 14, 2020",2020-05-14,NVIDIA's New Data Center GPU Packs 20 Times the Performance of Its Predecessor,article,2020,0.18181818181818182,positive,2,0,2,4
+"May 14, 2020",2020-05-14,NVIDIA launches chip aimed at data center economics,article,2020,0.14285714285714285,positive,1,0,2,4
+"May 1, 2020",2020-05-01,NVIDIA’s Top Scientist Develops Open-Source Ventilator That Can Be Built With $400 in Readily Available Parts,article,2020,0.07692307692307693,positive,1,0,5,3
+"April 28, 2020",2020-04-28,Nvidia’s Mellanox Deal Won China OK in Face of Rival Opposition,article,2020,0.0,neutral,0,0,0,0
+"April 27, 2020",2020-04-27,NVIDIA CEO Talks Closing on $7 Billion Mellanox Deal,article,2020,0.0,neutral,0,0,0,0
+"April 14, 2020",2020-04-14,"Minecraft with RTX Launches April 16, and It is Breathtaking",article,2020,0.14285714285714285,positive,1,0,2,2
+"April 2, 2020",2020-04-02,NVIDIA Unveils New High-End Notebook GPUs and More,article,2020,0.25,positive,2,0,0,2
+"March 23, 2020",2020-03-23,"NVIDIA kicks off 150 talks for 30,000 developers with online-only GTC event from March 25",article,2020,0.0,neutral,0,0,5,1
+"March 23, 2020",2020-03-23,NVIDIA makes its GPU-powered genome sequencing tool available free to those studying COVID-19,article,2020,0.0,neutral,0,0,1,4
+"March 23, 2020",2020-03-23,"NVIDIA's faster, better DLSS 2.0 could be a game-changer",article,2020,0.16666666666666666,positive,1,0,3,2
+"March 23, 2020",2020-03-23,"DirectX 12 Ultimate brings ray tracing to the Xbox Series X, PCs, and beyond",article,2020,0.09090909090909091,positive,1,0,0,2
+"March 16, 2020",2020-03-16,America's Most Responsible Companies 2020 [NVIDIA #6],article,2020,0.0,neutral,0,0,4,5
+"February 18, 2020",2020-02-18,100 Best Companies to Work For [NVIDIA #27],article,2020,0.2,positive,1,0,2,5
+"February 5, 2020",2020-02-05,Watch videos of robots being trained to act like humans in an Ikea kitchen that NVIDIA is using as a lab,article,2020,0.0,neutral,0,0,0,4
+"February 4, 2020",2020-02-04,Nvidia heats up cloud-gaming space with GeForce NOW,article,2020,0.0,neutral,0,0,2,2
+"February 4, 2020",2020-02-04,"NVIDIA’s Play-Anywhere GeForce Now Service is Finally Here, and it Demolishes Google Stadia",article,2020,0.0,neutral,0,0,5,2
+"January 7, 2020",2020-01-07,"NVIDIA CES 2020 Game Ready Driver: Supports RTX For Wolfenstien: Youngblood, Variable Rate Super Sampling, Max Frame Rate Settings, 8 New G-SYNC Compatible Monitors",article,2020,0.045454545454545456,positive,1,0,3,2
+"January 7, 2020",2020-01-07,NVIDIA unleashes the fastest displays in competitive gaming at CES 2020,article,2020,0.125,positive,1,0,4,2
+"January 7, 2020",2020-01-07,NVIDIA launches simulation platform for robots,article,2020,0.16666666666666666,positive,1,0,2,4

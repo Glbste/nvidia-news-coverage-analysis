@@ -1,0 +1,67 @@
+{
+  "scrape_timestamp": "2026-02-08T18:53:29.619650",
+  "total_articles": 175,
+  "date_range": {
+    "earliest": "2020-01-07 00:00:00",
+    "latest": "2026-01-09 00:00:00"
+  },
+  "columns": [
+    "date_string",
+    "publication_date",
+    "source_publication",
+    "title",
+    "external_url",
+    "content_type",
+    "thumbnail_url",
+    "scraped_at",
+    "year_scraped",
+    "year",
+    "month",
+    "title_length"
+  ],
+  "source_url": "https://nvidianews.nvidia.com/in-the-news",
+  "scraper_version": "1.0.0",
+  "delay_seconds": 2.0,
+  "analysis": {
+    "total_articles": 175,
+    "date_range": {
+      "earliest": "2020-01-07 00:00:00",
+      "latest": "2026-01-09 00:00:00"
+    },
+    "articles_by_year": {
+      "2020": 48,
+      "2021": 31,
+      "2022": 33,
+      "2023": 25,
+      "2024": 17,
+      "2025": 18,
+      "2026": 3
+    },
+    "articles_by_month": {
+      "2020-01": 3,
+      "2020-02": 4,
+      "2020-03": 5,
+      "2020-04": 4,
+      "2020-05": 8,
+      "2020-06": 5,
+      "2020-07": 1,
+      "2020-08": 2,
+      "2020-09": 5,
+      "2020-10": 6
+    },
+    "top_sources": {},
+    "unique_sources": 0,
+    "content_types": {
+      "article": 173,
+      "video": 2
+    },
+    "avg_title_length": 64.12571428571428,
+    "keyword_mentions": {
+      "ai": 70,
+      "gpu": 18,
+      "gaming": 12,
+      "data center": 7,
+      "chip": 24
+    }
+  }
+}

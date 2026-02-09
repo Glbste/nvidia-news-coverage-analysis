@@ -1,0 +1,206 @@
+2026-02-08 18:30:16,221 - INFO - Scraper initialized with 2.0s delay between requests
+2026-02-08 18:30:16,221 - INFO - Target: https://nvidianews.nvidia.com/in-the-news
+2026-02-08 18:30:16,221 - INFO - Starting scraping from 2020 to 2026
+2026-02-08 18:30:16,221 - INFO - Total years to scrape: 7
+2026-02-08 18:30:16,221 - INFO - Progress: 1/7 years
+2026-02-08 18:30:16,221 - INFO - Scraping year 2020...
+2026-02-08 18:30:16,221 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2020 (Attempt 1/3)
+2026-02-08 18:30:18,572 - INFO - Found 98 potential articles for 2020
+2026-02-08 18:30:18,579 - INFO - Successfully extracted 98 articles from 2020
+2026-02-08 18:30:18,579 - INFO - Running total: 98 articles
+2026-02-08 18:30:22,579 - INFO - Progress: 2/7 years
+2026-02-08 18:30:22,579 - INFO - Scraping year 2021...
+2026-02-08 18:30:22,579 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2021 (Attempt 1/3)
+2026-02-08 18:30:24,781 - INFO - Found 66 potential articles for 2021
+2026-02-08 18:30:24,785 - INFO - Successfully extracted 66 articles from 2021
+2026-02-08 18:30:24,785 - INFO - Running total: 164 articles
+2026-02-08 18:30:28,785 - INFO - Progress: 3/7 years
+2026-02-08 18:30:28,786 - INFO - Scraping year 2022...
+2026-02-08 18:30:28,786 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2022 (Attempt 1/3)
+2026-02-08 18:30:31,028 - INFO - Found 72 potential articles for 2022
+2026-02-08 18:30:31,032 - INFO - Successfully extracted 72 articles from 2022
+2026-02-08 18:30:31,032 - INFO - Running total: 236 articles
+2026-02-08 18:30:35,032 - INFO - Progress: 4/7 years
+2026-02-08 18:30:35,032 - INFO - Scraping year 2023...
+2026-02-08 18:30:35,032 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2023 (Attempt 1/3)
+2026-02-08 18:30:37,256 - INFO - Found 54 potential articles for 2023
+2026-02-08 18:30:37,259 - INFO - Successfully extracted 54 articles from 2023
+2026-02-08 18:30:37,260 - INFO - Running total: 290 articles
+2026-02-08 18:30:41,260 - INFO - Progress: 5/7 years
+2026-02-08 18:30:41,260 - INFO - Scraping year 2024...
+2026-02-08 18:30:41,260 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2024 (Attempt 1/3)
+2026-02-08 18:30:43,500 - INFO - Found 38 potential articles for 2024
+2026-02-08 18:30:43,502 - INFO - Successfully extracted 38 articles from 2024
+2026-02-08 18:30:43,502 - INFO - Running total: 328 articles
+2026-02-08 18:30:47,503 - INFO - Progress: 6/7 years
+2026-02-08 18:30:47,503 - INFO - Scraping year 2025...
+2026-02-08 18:30:47,503 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2025 (Attempt 1/3)
+2026-02-08 18:30:49,747 - INFO - Found 40 potential articles for 2025
+2026-02-08 18:30:49,749 - INFO - Successfully extracted 40 articles from 2025
+2026-02-08 18:30:49,749 - INFO - Running total: 368 articles
+2026-02-08 18:30:53,749 - INFO - Progress: 7/7 years
+2026-02-08 18:30:53,749 - INFO - Scraping year 2026...
+2026-02-08 18:30:53,749 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2026 (Attempt 1/3)
+2026-02-08 18:30:55,898 - INFO - Found 10 potential articles for 2026
+2026-02-08 18:30:55,899 - INFO - Successfully extracted 10 articles from 2026
+2026-02-08 18:30:55,899 - INFO - Running total: 378 articles
+2026-02-08 18:30:55,900 - INFO - Removed 203 duplicate entries
+2026-02-08 18:30:55,902 - INFO - Total unique articles scraped: 175
+2026-02-08 18:30:55,903 - INFO - ✓ CSV saved: data/nvidia_newsroom_20260208_183055.csv
+2026-02-08 18:30:55,904 - INFO - ✓ JSON saved: data/nvidia_newsroom_20260208_183055.json
+2026-02-08 18:30:55,955 - INFO - ✓ Excel saved: data/nvidia_newsroom_20260208_183055.xlsx
+2026-02-08 18:33:13,659 - INFO - Scraper initialized with 2.0s delay between requests
+2026-02-08 18:33:13,659 - INFO - Target: https://nvidianews.nvidia.com/in-the-news
+2026-02-08 18:33:13,659 - INFO - Starting scraping from 2020 to 2026
+2026-02-08 18:33:13,659 - INFO - Total years to scrape: 7
+2026-02-08 18:33:13,659 - INFO - Progress: 1/7 years
+2026-02-08 18:33:13,659 - INFO - Scraping year 2020...
+2026-02-08 18:33:13,659 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2020 (Attempt 1/3)
+2026-02-08 18:33:16,033 - INFO - Found 98 potential articles for 2020
+2026-02-08 18:33:16,038 - INFO - Successfully extracted 98 articles from 2020
+2026-02-08 18:33:16,038 - INFO - Running total: 98 articles
+2026-02-08 18:33:20,038 - INFO - Progress: 2/7 years
+2026-02-08 18:33:20,039 - INFO - Scraping year 2021...
+2026-02-08 18:33:20,039 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2021 (Attempt 1/3)
+2026-02-08 18:33:22,239 - INFO - Found 66 potential articles for 2021
+2026-02-08 18:33:22,243 - INFO - Successfully extracted 66 articles from 2021
+2026-02-08 18:33:22,243 - INFO - Running total: 164 articles
+2026-02-08 18:33:26,243 - INFO - Progress: 3/7 years
+2026-02-08 18:33:26,243 - INFO - Scraping year 2022...
+2026-02-08 18:33:26,243 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2022 (Attempt 1/3)
+2026-02-08 18:33:28,489 - INFO - Found 72 potential articles for 2022
+2026-02-08 18:33:28,492 - INFO - Successfully extracted 72 articles from 2022
+2026-02-08 18:33:28,492 - INFO - Running total: 236 articles
+2026-02-08 18:33:32,493 - INFO - Progress: 4/7 years
+2026-02-08 18:33:32,493 - INFO - Scraping year 2023...
+2026-02-08 18:33:32,493 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2023 (Attempt 1/3)
+2026-02-08 18:33:34,656 - INFO - Found 54 potential articles for 2023
+2026-02-08 18:33:34,659 - INFO - Successfully extracted 54 articles from 2023
+2026-02-08 18:33:34,659 - INFO - Running total: 290 articles
+2026-02-08 18:33:38,659 - INFO - Progress: 5/7 years
+2026-02-08 18:33:38,659 - INFO - Scraping year 2024...
+2026-02-08 18:33:38,659 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2024 (Attempt 1/3)
+2026-02-08 18:33:40,858 - INFO - Found 38 potential articles for 2024
+2026-02-08 18:33:40,860 - INFO - Successfully extracted 38 articles from 2024
+2026-02-08 18:33:40,860 - INFO - Running total: 328 articles
+2026-02-08 18:33:44,860 - INFO - Progress: 6/7 years
+2026-02-08 18:33:44,860 - INFO - Scraping year 2025...
+2026-02-08 18:33:44,860 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2025 (Attempt 1/3)
+2026-02-08 18:33:47,110 - INFO - Found 40 potential articles for 2025
+2026-02-08 18:33:47,112 - INFO - Successfully extracted 40 articles from 2025
+2026-02-08 18:33:47,112 - INFO - Running total: 368 articles
+2026-02-08 18:33:51,112 - INFO - Progress: 7/7 years
+2026-02-08 18:33:51,112 - INFO - Scraping year 2026...
+2026-02-08 18:33:51,112 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2026 (Attempt 1/3)
+2026-02-08 18:33:53,357 - INFO - Found 10 potential articles for 2026
+2026-02-08 18:33:53,357 - INFO - Successfully extracted 10 articles from 2026
+2026-02-08 18:33:53,357 - INFO - Running total: 378 articles
+2026-02-08 18:33:53,359 - INFO - Removed 203 duplicate entries
+2026-02-08 18:33:53,360 - INFO - Total unique articles scraped: 175
+2026-02-08 18:33:53,362 - INFO - ✓ CSV saved: data/nvidia_newsroom_20260208_183353.csv
+2026-02-08 18:33:53,363 - INFO - ✓ JSON saved: data/nvidia_newsroom_20260208_183353.json
+2026-02-08 18:33:53,425 - INFO - ✓ Excel saved: data/nvidia_newsroom_20260208_183353.xlsx
+2026-02-08 18:35:00,406 - INFO - Scraper initialized with 2.0s delay between requests
+2026-02-08 18:35:00,406 - INFO - Target: https://nvidianews.nvidia.com/in-the-news
+2026-02-08 18:35:00,406 - INFO - Starting scraping from 2020 to 2026
+2026-02-08 18:35:00,406 - INFO - Total years to scrape: 7
+2026-02-08 18:35:00,406 - INFO - Progress: 1/7 years
+2026-02-08 18:35:00,406 - INFO - Scraping year 2020...
+2026-02-08 18:35:00,406 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2020 (Attempt 1/3)
+2026-02-08 18:35:02,737 - INFO - Found 98 potential articles for 2020
+2026-02-08 18:35:02,742 - INFO - Successfully extracted 98 articles from 2020
+2026-02-08 18:35:02,742 - INFO - Running total: 98 articles
+2026-02-08 18:35:06,742 - INFO - Progress: 2/7 years
+2026-02-08 18:35:06,742 - INFO - Scraping year 2021...
+2026-02-08 18:35:06,742 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2021 (Attempt 1/3)
+2026-02-08 18:35:08,900 - INFO - Found 66 potential articles for 2021
+2026-02-08 18:35:08,904 - INFO - Successfully extracted 66 articles from 2021
+2026-02-08 18:35:08,904 - INFO - Running total: 164 articles
+2026-02-08 18:35:12,904 - INFO - Progress: 3/7 years
+2026-02-08 18:35:12,904 - INFO - Scraping year 2022...
+2026-02-08 18:35:12,904 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2022 (Attempt 1/3)
+2026-02-08 18:35:15,071 - INFO - Found 72 potential articles for 2022
+2026-02-08 18:35:15,075 - INFO - Successfully extracted 72 articles from 2022
+2026-02-08 18:35:15,075 - INFO - Running total: 236 articles
+2026-02-08 18:35:19,075 - INFO - Progress: 4/7 years
+2026-02-08 18:35:19,075 - INFO - Scraping year 2023...
+2026-02-08 18:35:19,075 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2023 (Attempt 1/3)
+2026-02-08 18:35:21,318 - INFO - Found 54 potential articles for 2023
+2026-02-08 18:35:21,320 - INFO - Successfully extracted 54 articles from 2023
+2026-02-08 18:35:21,320 - INFO - Running total: 290 articles
+2026-02-08 18:35:25,321 - INFO - Progress: 5/7 years
+2026-02-08 18:35:25,321 - INFO - Scraping year 2024...
+2026-02-08 18:35:25,321 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2024 (Attempt 1/3)
+2026-02-08 18:35:27,499 - INFO - Found 38 potential articles for 2024
+2026-02-08 18:35:27,501 - INFO - Successfully extracted 38 articles from 2024
+2026-02-08 18:35:27,501 - INFO - Running total: 328 articles
+2026-02-08 18:35:31,501 - INFO - Progress: 6/7 years
+2026-02-08 18:35:31,502 - INFO - Scraping year 2025...
+2026-02-08 18:35:31,502 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2025 (Attempt 1/3)
+2026-02-08 18:35:33,707 - INFO - Found 40 potential articles for 2025
+2026-02-08 18:35:33,709 - INFO - Successfully extracted 40 articles from 2025
+2026-02-08 18:35:33,709 - INFO - Running total: 368 articles
+2026-02-08 18:35:37,709 - INFO - Progress: 7/7 years
+2026-02-08 18:35:37,709 - INFO - Scraping year 2026...
+2026-02-08 18:35:37,709 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2026 (Attempt 1/3)
+2026-02-08 18:35:39,955 - INFO - Found 10 potential articles for 2026
+2026-02-08 18:35:39,955 - INFO - Successfully extracted 10 articles from 2026
+2026-02-08 18:35:39,955 - INFO - Running total: 378 articles
+2026-02-08 18:35:39,957 - INFO - Removed 203 duplicate entries
+2026-02-08 18:35:39,958 - INFO - Total unique articles scraped: 175
+2026-02-08 18:35:39,960 - INFO - ✓ CSV saved: data/nvidia_newsroom_20260208_183539.csv
+2026-02-08 18:35:39,960 - INFO - ✓ JSON saved: data/nvidia_newsroom_20260208_183539.json
+2026-02-08 18:35:40,018 - INFO - ✓ Excel saved: data/nvidia_newsroom_20260208_183539.xlsx
+2026-02-08 18:35:40,021 - INFO - ✓ Metadata saved: data/nvidia_newsroom_20260208_183539_metadata.json
+2026-02-08 18:52:49,844 - INFO - Scraper initialized with 2.0s delay between requests
+2026-02-08 18:52:49,844 - INFO - Target: https://nvidianews.nvidia.com/in-the-news
+2026-02-08 18:52:49,844 - INFO - Starting scraping from 2020 to 2026
+2026-02-08 18:52:49,844 - INFO - Total years to scrape: 7
+2026-02-08 18:52:49,844 - INFO - Progress: 1/7 years
+2026-02-08 18:52:49,844 - INFO - Scraping year 2020...
+2026-02-08 18:52:49,844 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2020 (Attempt 1/3)
+2026-02-08 18:52:52,209 - INFO - Found 98 potential articles for 2020
+2026-02-08 18:52:52,215 - INFO - Successfully extracted 98 articles from 2020
+2026-02-08 18:52:52,215 - INFO - Running total: 98 articles
+2026-02-08 18:52:56,215 - INFO - Progress: 2/7 years
+2026-02-08 18:52:56,215 - INFO - Scraping year 2021...
+2026-02-08 18:52:56,215 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2021 (Attempt 1/3)
+2026-02-08 18:52:58,380 - INFO - Found 66 potential articles for 2021
+2026-02-08 18:52:58,384 - INFO - Successfully extracted 66 articles from 2021
+2026-02-08 18:52:58,384 - INFO - Running total: 164 articles
+2026-02-08 18:53:02,384 - INFO - Progress: 3/7 years
+2026-02-08 18:53:02,384 - INFO - Scraping year 2022...
+2026-02-08 18:53:02,384 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2022 (Attempt 1/3)
+2026-02-08 18:53:04,555 - INFO - Found 72 potential articles for 2022
+2026-02-08 18:53:04,560 - INFO - Successfully extracted 72 articles from 2022
+2026-02-08 18:53:04,560 - INFO - Running total: 236 articles
+2026-02-08 18:53:08,560 - INFO - Progress: 4/7 years
+2026-02-08 18:53:08,560 - INFO - Scraping year 2023...
+2026-02-08 18:53:08,560 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2023 (Attempt 1/3)
+2026-02-08 18:53:10,797 - INFO - Found 54 potential articles for 2023
+2026-02-08 18:53:10,801 - INFO - Successfully extracted 54 articles from 2023
+2026-02-08 18:53:10,801 - INFO - Running total: 290 articles
+2026-02-08 18:53:14,801 - INFO - Progress: 5/7 years
+2026-02-08 18:53:14,801 - INFO - Scraping year 2024...
+2026-02-08 18:53:14,801 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2024 (Attempt 1/3)
+2026-02-08 18:53:17,042 - INFO - Found 38 potential articles for 2024
+2026-02-08 18:53:17,045 - INFO - Successfully extracted 38 articles from 2024
+2026-02-08 18:53:17,045 - INFO - Running total: 328 articles
+2026-02-08 18:53:21,045 - INFO - Progress: 6/7 years
+2026-02-08 18:53:21,045 - INFO - Scraping year 2025...
+2026-02-08 18:53:21,045 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2025 (Attempt 1/3)
+2026-02-08 18:53:23,289 - INFO - Found 40 potential articles for 2025
+2026-02-08 18:53:23,291 - INFO - Successfully extracted 40 articles from 2025
+2026-02-08 18:53:23,291 - INFO - Running total: 368 articles
+2026-02-08 18:53:27,292 - INFO - Progress: 7/7 years
+2026-02-08 18:53:27,292 - INFO - Scraping year 2026...
+2026-02-08 18:53:27,292 - INFO - Fetching: https://nvidianews.nvidia.com/in-the-news?year=2026 (Attempt 1/3)
+2026-02-08 18:53:29,541 - INFO - Found 10 potential articles for 2026
+2026-02-08 18:53:29,542 - INFO - Successfully extracted 10 articles from 2026
+2026-02-08 18:53:29,542 - INFO - Running total: 378 articles
+2026-02-08 18:53:29,544 - INFO - Removed 203 duplicate entries
+2026-02-08 18:53:29,545 - INFO - Total unique articles scraped: 175
+2026-02-08 18:53:29,547 - INFO - ✓ CSV saved: data/scraped_content/nvidia_newsroom_20260208_185329.csv
+2026-02-08 18:53:29,548 - INFO - ✓ JSON saved: data/scraped_content/nvidia_newsroom_20260208_185329.json
+2026-02-08 18:53:29,619 - INFO - ✓ Excel saved: data/scraped_content/nvidia_newsroom_20260208_185329.xlsx
+2026-02-08 18:53:29,622 - INFO - ✓ Metadata saved: data/scraped_content/nvidia_newsroom_20260208_185329_metadata.json

@@ -1,0 +1,39 @@
+{
+  "total_articles": 175,
+  "date_range": {
+    "start": "2020-01-07 00:00:00",
+    "end": "2026-01-09 00:00:00",
+    "span_days": 2194
+  },
+  "sentiment": {
+    "mean": 0.06008532737104166,
+    "std": 0.07956881740442237,
+    "median": 0.0,
+    "distribution": {
+      "neutral": 105,
+      "positive": 70
+    }
+  },
+  "topics_lda": {
+    "n_topics": 6,
+    "distribution": {
+      "2": 44,
+      "4": 39,
+      "0": 31,
+      "5": 27,
+      "1": 17,
+      "3": 17
+    }
+  },
+  "topics_nmf": {
+    "n_topics": 6,
+    "distribution": {
+      "2": 54,
+      "4": 46,
+      "0": 26,
+      "3": 22,
+      "5": 16,
+      "1": 11
+    }
+  }
+}
