@@ -1,10 +1,4 @@
 
-#triple string """ x """ is not a comment but metadata that are embedded in the documentation of the script and accessible via help(module) 
-#
-#why including a DOCSTRING? shows the purpose of the bot, who is the author (attribution), also helps the developer to remember what is the script ee nafter some time, professional practice
-# 
-# is a short explanation of the WHY and WHAT behind the HOW (represented by the code itself) 
-
 """
 NVIDIA Newsroom "In the News" Scraper
 Professional web scraper for academic research in computational social science
