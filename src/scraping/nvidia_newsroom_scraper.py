@@ -7,7 +7,6 @@ Website: https://nvidianews.nvidia.com/in-the-news
 Purpose: Collect press coverage and media mentions for discourse analysis
 Author: Stefano Rolesu
 Date: February 2026
-License: For academic research purposes only
 """
 
 #libraries that need to be requested are not necessarily buily into python 
