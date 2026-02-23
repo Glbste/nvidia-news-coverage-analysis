@@ -476,17 +476,6 @@ def main():
     # Save data with analysis
     scraper.save_data(df, output_dir='data/scraped_content', include_analysis=True)
 
-    """
-    # Display preview
-    if not df.empty:
-        print("\n📄 Preview of collected data:")
-        print(df[['publication_date', 'source_publication', 'title']].head(10))
-        
-        print("\n📈 Quick insights:")
-        print(f"  • Unique news sources: {df['source_publication'].nunique()}")
-        print(f"  • Most covered year: {df['year_scraped'].mode()[0]}")
-        print(f"  • Top source: {df['source_publication'].value_counts().index[0]}")
-    """
 
 if __name__ == "__main__":
     main()
