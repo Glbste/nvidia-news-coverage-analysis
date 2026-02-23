@@ -1,6 +1,6 @@
 """
 Comprehensive NLP Analysis of NVIDIA Newsroom Content
-========================================================
+
 This script performs:
 1. Topic Modeling (LDA and NMF)
 2. Sentiment Analysis (multiple approaches)
@@ -10,8 +10,6 @@ This script performs:
 6. Statistical Summaries
 7. Visualizations
 
-Requirements:
-pip install pandas numpy scikit-learn matplotlib seaborn openpyxl textblob nltk wordcloud
 """
 
 import pandas as pd
@@ -32,14 +30,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Optional: Uncomment if you have these installed
-# from textblob import TextBlob
-# from wordcloud import WordCloud
-# import nltk
 
-# ============================================================================
 # CONFIGURATION
-# ============================================================================
+
 
 CONFIG = {
     'input_file': 'data/nvidia_newsroom_20260208_183539.xlsx',
@@ -52,9 +45,7 @@ CONFIG = {
     'output_dir': 'data/nlp_results'
 }
 
-# ============================================================================
 # DATA LOADING AND PREPROCESSING
-# ============================================================================
 
 def load_data(file_path, sheet_name='Articles'):
     """Load and prepare the dataset"""
@@ -110,9 +101,7 @@ def preprocess_text(text):
     
     return text
 
-# ============================================================================
 # TOPIC MODELING
-# ============================================================================
 
 def perform_lda_topic_modeling(texts, n_topics=6, n_top_words=15):
     """
@@ -251,9 +240,7 @@ def perform_nmf_topic_modeling(texts, n_topics=6, n_top_words=15):
         'method': 'NMF'
     }
 
-# ============================================================================
 # SENTIMENT ANALYSIS
-# ============================================================================
 
 def create_sentiment_lexicons():
     """Create comprehensive sentiment lexicons"""
@@ -372,9 +359,7 @@ def analyze_sentiment(df, text_column='processed_title'):
     
     return df
 
-# ============================================================================
 # WORD FREQUENCY ANALYSIS
-# ============================================================================
 
 def analyze_word_frequencies(texts, n_top=30):
     """Extract and analyze word frequencies"""
@@ -443,9 +428,7 @@ def analyze_word_frequencies(texts, n_top=30):
         'trigram_freq': trigram_freq_pairs[:10] if len(trigram_freq_pairs) > 0 else []
     }
 
-# ============================================================================
 # TEMPORAL ANALYSIS
-# ============================================================================
 
 def temporal_analysis(df):
     """Analyze trends over time"""
@@ -483,9 +466,7 @@ def temporal_analysis(df):
         'quarterly_counts': recent_quarters
     }
 
-# ============================================================================
 # ADVANCED ANALYSIS
-# ============================================================================
 
 def keyword_cooccurrence_analysis(texts, top_n=15):
     """Analyze which keywords co-occur frequently"""
@@ -547,9 +528,7 @@ def content_type_analysis(df):
             if row['count'] > 0:
                 print(f"  {ctype}: {row['mean']:.4f} (n={int(row['count'])})")
 
-# ============================================================================
 # VISUALIZATION FUNCTIONS
-# ============================================================================
 
 def create_visualizations(df, topic_results, freq_results, output_dir='nlp_results'):
     """Create comprehensive visualizations"""
@@ -793,9 +772,7 @@ def export_results(df, topic_results_lda, topic_results_nmf, freq_results, outpu
     
     print(f"\n  All results exported to '{output_dir}/' directory")
 
-# ============================================================================
 # MAIN EXECUTION
-# ============================================================================
 
 def main():
     """Main analysis pipeline"""
