@@ -65,7 +65,6 @@ python src/analysis/news_nlp_analysis.py
 
 - Python (pandas, scikit-learn, nltk/spacy)
 - BeautifulSoup/Scrapy for web scraping
-- Matplotlib/Seaborn for visualization
 - LDA/NMF for topic modeling
 
 ## 📝 License
